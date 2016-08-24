@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/common.iml" filepath="$PROJECT_DIR$/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/customactivityoncrash/customactivityoncrash.iml" filepath="$PROJECT_DIR$/customactivityoncrash/customactivityoncrash.iml" />
       <module fileurl="file://$PROJECT_DIR$/eventbus/eventbus.iml" filepath="$PROJECT_DIR$/eventbus/eventbus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glide/glide.iml" filepath="$PROJECT_DIR$/glide/glide.iml" />
       <module fileurl="file://$PROJECT_DIR$/support-v4/support-v4.iml" filepath="$PROJECT_DIR$/support-v4/support-v4.iml" />
     </modules>
   </component>
