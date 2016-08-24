@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/eventbus/eventbus.iml" filepath="$PROJECT_DIR$/eventbus/eventbus.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmentswitcher/fragmentswitcher.iml" filepath="$PROJECT_DIR$/fragmentswitcher/fragmentswitcher.iml" />
       <module fileurl="file://$PROJECT_DIR$/glide/glide.iml" filepath="$PROJECT_DIR$/glide/glide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glide-transformations/glide-transformations.iml" filepath="$PROJECT_DIR$/glide-transformations/glide-transformations.iml" />
       <module fileurl="file://$PROJECT_DIR$/jackson/jackson.iml" filepath="$PROJECT_DIR$/jackson/jackson.iml" />
       <module fileurl="file://$PROJECT_DIR$/leakcanary-android/leakcanary-android.iml" filepath="$PROJECT_DIR$/leakcanary-android/leakcanary-android.iml" />
       <module fileurl="file://$PROJECT_DIR$/logger/logger.iml" filepath="$PROJECT_DIR$/logger/logger.iml" />
