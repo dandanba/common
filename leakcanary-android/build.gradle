@@ -26,4 +26,4 @@ dependencies {
     testCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.4-beta2'
 }
 
-apply from: 'maven_push.gradle'
+apply from: '../maven_push.gradle'
