@@ -4,13 +4,13 @@ uploadArchives {
     configuration = configurations.archives
     repositories {
         mavenDeployer {
-            repository(url: REPOSITORY_PATH) {
-                authentication(userName: NEXUS_USERNAME, password: NEXUS_PASSWORD)
+            repository(url: 'http://127.0.0.1:8081/nexus/content/repositories/maitian/') {
+                authentication(userName: 'admin', password: 'admin123')
             }
             pom.project {
                 version android.defaultConfig.versionName
                 artifactId project.name
-                groupId COMMON_GROUP_ID
+                groupId 'cn.maitian.common'
                 packaging 'aar'
                 description 'wrap library'
             }

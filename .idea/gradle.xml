@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/appcompat-v7" />
+            <option value="$PROJECT_DIR$/eventbus" />
             <option value="$PROJECT_DIR$/support-v4" />
           </set>
         </option>
@@ -18,6 +19,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/appcompat-v7" />
+            <option value="$PROJECT_DIR$/eventbus" />
             <option value="$PROJECT_DIR$/support-v4" />
           </set>
         </option>
