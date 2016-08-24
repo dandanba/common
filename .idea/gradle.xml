@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/eventbus" />
             <option value="$PROJECT_DIR$/glide" />
             <option value="$PROJECT_DIR$/jackson" />
+            <option value="$PROJECT_DIR$/leakcanary-android" />
             <option value="$PROJECT_DIR$/support-v4" />
           </set>
         </option>
@@ -30,6 +31,7 @@
             <option value="$PROJECT_DIR$/eventbus" />
             <option value="$PROJECT_DIR$/glide" />
             <option value="$PROJECT_DIR$/jackson" />
+            <option value="$PROJECT_DIR$/leakcanary-android" />
             <option value="$PROJECT_DIR$/support-v4" />
           </set>
         </option>
