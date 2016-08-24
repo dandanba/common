@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/androidanimations" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/appcompat-v7" />
             <option value="$PROJECT_DIR$/baserecyclerviewadapterhelper" />
@@ -34,6 +35,7 @@
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/androidanimations" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/appcompat-v7" />
             <option value="$PROJECT_DIR$/baserecyclerviewadapterhelper" />
