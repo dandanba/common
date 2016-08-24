@@ -22,6 +22,7 @@
             <option value="$PROJECT_DIR$/logger" />
             <option value="$PROJECT_DIR$/lombok" />
             <option value="$PROJECT_DIR$/navigationtabbar" />
+            <option value="$PROJECT_DIR$/nineoldandroids" />
             <option value="$PROJECT_DIR$/okhttp" />
             <option value="$PROJECT_DIR$/retrofit" />
             <option value="$PROJECT_DIR$/rxandroid" />
@@ -47,6 +48,7 @@
             <option value="$PROJECT_DIR$/logger" />
             <option value="$PROJECT_DIR$/lombok" />
             <option value="$PROJECT_DIR$/navigationtabbar" />
+            <option value="$PROJECT_DIR$/nineoldandroids" />
             <option value="$PROJECT_DIR$/okhttp" />
             <option value="$PROJECT_DIR$/retrofit" />
             <option value="$PROJECT_DIR$/rxandroid" />
