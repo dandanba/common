@@ -5,7 +5,7 @@ android {
     buildToolsVersion "24.0.1"
 
     defaultConfig {
-        minSdkVersion 16
+        minSdkVersion 15
         targetSdkVersion 24
         versionCode 1
         versionName "1.0.2"
@@ -21,7 +21,11 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
-    compile 'com.novoda:view-pager-adapter:0.9.1'
+    // maitian
+    compile 'cn.maitian.common:appcompat-v7:1.0.0'
+    compile 'cn.maitian.common:eventbus:1.0.2'
+    // multidex
+    compile 'com.android.support:multidex:1.0.0'
 }
 
 apply from: '../maven_push.gradle'
