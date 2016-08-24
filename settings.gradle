@@ -1,1 +1,1 @@
-include ':app', ':appcompat-v7', ':support-v4', ':eventbus', ':customactivityoncrash'
+include ':app', ':appcompat-v7', ':support-v4', ':eventbus', ':customactivityoncrash', ':baserecyclerviewadapterhelper', ':calligraphy'
