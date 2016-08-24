@@ -8,10 +8,10 @@ uploadArchives {
                 authentication(userName: MAITIAN_REPOSITORIES_USERNAME, password: MAITIAN_REPOSITORIES_PASSWORD)
             }
             pom.project {
-                version android.defaultConfig.versionName
+                version '1.0.0'
                 artifactId project.name
                 groupId 'cn.maitian.common'
-                packaging 'aar'
+                packaging 'jar'
                 description 'wrap library'
             }
         }

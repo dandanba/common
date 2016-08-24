@@ -16,7 +16,7 @@ allprojects {
     repositories {
         jcenter()
         maven { url "https://jitpack.io" }
-        maven { url MAITIAN_REPOSITORIES }
+        maven { url MAITIAN_REPOSITORIES_PATH }
     }
 }
 
