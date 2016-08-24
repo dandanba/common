@@ -1,0 +1,19 @@
+apply plugin: 'maven'
+
+uploadArchives {
+    configuration = configurations.archives
+    repositories {
+        mavenDeployer {
+            repository(url: REPOSITORY_PATH) {
+                authentication(userName: NEXUS_USERNAME, password: NEXUS_PASSWORD)
+            }
+            pom.project {
+                version android.defaultConfig.versionName
+                artifactId project.name
+                groupId COMMON_GROUP_ID
+                packaging 'aar'
+                description 'wrap library'
+            }
+        }
+    }
+}
