@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/appcompat-v7" />
             <option value="$PROJECT_DIR$/baserecyclerviewadapterhelper" />
             <option value="$PROJECT_DIR$/calligraphy" />
+            <option value="$PROJECT_DIR$/circleindicator" />
             <option value="$PROJECT_DIR$/customactivityoncrash" />
             <option value="$PROJECT_DIR$/eventbus" />
             <option value="$PROJECT_DIR$/fragmentswitcher" />
@@ -30,6 +31,7 @@
             <option value="$PROJECT_DIR$/rxbinding" />
             <option value="$PROJECT_DIR$/secure-pref-manager" />
             <option value="$PROJECT_DIR$/support-v4" />
+            <option value="$PROJECT_DIR$/view-pager-adapter" />
           </set>
         </option>
         <option name="myModules">
@@ -40,6 +42,7 @@
             <option value="$PROJECT_DIR$/appcompat-v7" />
             <option value="$PROJECT_DIR$/baserecyclerviewadapterhelper" />
             <option value="$PROJECT_DIR$/calligraphy" />
+            <option value="$PROJECT_DIR$/circleindicator" />
             <option value="$PROJECT_DIR$/customactivityoncrash" />
             <option value="$PROJECT_DIR$/eventbus" />
             <option value="$PROJECT_DIR$/fragmentswitcher" />
@@ -57,6 +60,7 @@
             <option value="$PROJECT_DIR$/rxbinding" />
             <option value="$PROJECT_DIR$/secure-pref-manager" />
             <option value="$PROJECT_DIR$/support-v4" />
+            <option value="$PROJECT_DIR$/view-pager-adapter" />
           </set>
         </option>
       </GradleProjectSettings>
