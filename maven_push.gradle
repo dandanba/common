@@ -4,7 +4,7 @@ uploadArchives {
     configuration = configurations.archives
     repositories {
         mavenDeployer {
-            repository(url: 'http://127.0.0.1:8081/nexus/content/repositories/maitian/') {
+            repository(url: MAITIAN_REPOSITORIES) {
                 authentication(userName: 'admin', password: 'admin123')
             }
             pom.project {

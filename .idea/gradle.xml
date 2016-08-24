@@ -20,6 +20,7 @@
             <option value="$PROJECT_DIR$/logger" />
             <option value="$PROJECT_DIR$/lombok" />
             <option value="$PROJECT_DIR$/okhttp" />
+            <option value="$PROJECT_DIR$/retrofit" />
             <option value="$PROJECT_DIR$/rxandroid" />
             <option value="$PROJECT_DIR$/rxbinding" />
             <option value="$PROJECT_DIR$/secure-pref-manager" />
@@ -41,6 +42,7 @@
             <option value="$PROJECT_DIR$/logger" />
             <option value="$PROJECT_DIR$/lombok" />
             <option value="$PROJECT_DIR$/okhttp" />
+            <option value="$PROJECT_DIR$/retrofit" />
             <option value="$PROJECT_DIR$/rxandroid" />
             <option value="$PROJECT_DIR$/rxbinding" />
             <option value="$PROJECT_DIR$/secure-pref-manager" />
