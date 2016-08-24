@@ -31,6 +31,7 @@
             <option value="$PROJECT_DIR$/rxbinding" />
             <option value="$PROJECT_DIR$/secure-pref-manager" />
             <option value="$PROJECT_DIR$/support-v4" />
+            <option value="$PROJECT_DIR$/utils" />
             <option value="$PROJECT_DIR$/view-pager-adapter" />
           </set>
         </option>
@@ -60,6 +61,7 @@
             <option value="$PROJECT_DIR$/rxbinding" />
             <option value="$PROJECT_DIR$/secure-pref-manager" />
             <option value="$PROJECT_DIR$/support-v4" />
+            <option value="$PROJECT_DIR$/utils" />
             <option value="$PROJECT_DIR$/view-pager-adapter" />
           </set>
         </option>

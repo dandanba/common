@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/rxbinding/rxbinding.iml" filepath="$PROJECT_DIR$/rxbinding/rxbinding.iml" />
       <module fileurl="file://$PROJECT_DIR$/secure-pref-manager/secure-pref-manager.iml" filepath="$PROJECT_DIR$/secure-pref-manager/secure-pref-manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/support-v4/support-v4.iml" filepath="$PROJECT_DIR$/support-v4/support-v4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/view-pager-adapter/view-pager-adapter.iml" filepath="$PROJECT_DIR$/view-pager-adapter/view-pager-adapter.iml" />
     </modules>
   </component>
