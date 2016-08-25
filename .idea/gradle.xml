@@ -22,8 +22,6 @@
             <option value="$PROJECT_DIR$/jackson" />
             <option value="$PROJECT_DIR$/leakcanary-android" />
             <option value="$PROJECT_DIR$/logger" />
-            <option value="$PROJECT_DIR$/lombok" />
-            <option value="$PROJECT_DIR$/model" />
             <option value="$PROJECT_DIR$/multidex" />
             <option value="$PROJECT_DIR$/navigationtabbar" />
             <option value="$PROJECT_DIR$/nineoldandroids" />
@@ -54,8 +52,6 @@
             <option value="$PROJECT_DIR$/jackson" />
             <option value="$PROJECT_DIR$/leakcanary-android" />
             <option value="$PROJECT_DIR$/logger" />
-            <option value="$PROJECT_DIR$/lombok" />
-            <option value="$PROJECT_DIR$/model" />
             <option value="$PROJECT_DIR$/multidex" />
             <option value="$PROJECT_DIR$/navigationtabbar" />
             <option value="$PROJECT_DIR$/nineoldandroids" />
