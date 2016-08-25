@@ -1,4 +1,4 @@
-package cn.maitian.base;
+package cn.maitian.multidex;
 
 import org.junit.Test;
 

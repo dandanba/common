@@ -11,7 +11,6 @@
             <option value="$PROJECT_DIR$/androidanimations" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/appcompat-v7" />
-            <option value="$PROJECT_DIR$/base" />
             <option value="$PROJECT_DIR$/baserecyclerviewadapterhelper" />
             <option value="$PROJECT_DIR$/calligraphy" />
             <option value="$PROJECT_DIR$/circleindicator" />
@@ -25,6 +24,7 @@
             <option value="$PROJECT_DIR$/logger" />
             <option value="$PROJECT_DIR$/lombok" />
             <option value="$PROJECT_DIR$/model" />
+            <option value="$PROJECT_DIR$/multidex" />
             <option value="$PROJECT_DIR$/navigationtabbar" />
             <option value="$PROJECT_DIR$/nineoldandroids" />
             <option value="$PROJECT_DIR$/okhttp" />
@@ -43,7 +43,6 @@
             <option value="$PROJECT_DIR$/androidanimations" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/appcompat-v7" />
-            <option value="$PROJECT_DIR$/base" />
             <option value="$PROJECT_DIR$/baserecyclerviewadapterhelper" />
             <option value="$PROJECT_DIR$/calligraphy" />
             <option value="$PROJECT_DIR$/circleindicator" />
@@ -57,6 +56,7 @@
             <option value="$PROJECT_DIR$/logger" />
             <option value="$PROJECT_DIR$/lombok" />
             <option value="$PROJECT_DIR$/model" />
+            <option value="$PROJECT_DIR$/multidex" />
             <option value="$PROJECT_DIR$/navigationtabbar" />
             <option value="$PROJECT_DIR$/nineoldandroids" />
             <option value="$PROJECT_DIR$/okhttp" />
