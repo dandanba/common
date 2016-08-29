@@ -32,19 +32,24 @@ public class SocialSdk {
     }
 
     //新浪微博 appkey appsecret redirectUrl
+    public static void setSinaWeibo(String appkey, String appsecret) {
+        PlatformConfig.setSinaWeibo(appkey, appsecret);
+    }
+
+    //新浪微博 appkey appsecret redirectUrl
     public static void setSinaWeibo(String appkey, String appsecret, String redirectUrl) {
         PlatformConfig.setSinaWeibo(appkey, appsecret);
         Config.REDIRECT_URL = redirectUrl;
     }
 
     public static void doOauthVerify(Activity activity, SHARE_MEDIA shareMedia, SocialAuthSdkHandler handler) {
-        final UMShareAPI mShareAPI = UMShareAPI.get(activity);
-        mShareAPI.doOauthVerify(activity, shareMedia, handler);
+        final UMShareAPI shareAPI = UMShareAPI.get(activity);
+        shareAPI.doOauthVerify(activity, shareMedia, handler);
     }
 
     public static void getPlatformInfo(Activity activity, SHARE_MEDIA shareMedia, SocialAuthSdkHandler handler) {
-        final UMShareAPI mShareAPI = UMShareAPI.get(activity);
-        mShareAPI.getPlatformInfo(activity, shareMedia, handler);
+        final UMShareAPI shareAPI = UMShareAPI.get(activity);
+        shareAPI.getPlatformInfo(activity, shareMedia, handler);
     }
 
     public static void openShareAction(Activity activity, String text, String title, String targetUrl, String imageUrl, SocialShareSdkHandler handler) {
@@ -59,12 +64,12 @@ public class SocialSdk {
     }
 
     public static void onActivityResult(Activity activity, int requestCode, int resultCode, Intent data) {
-        final UMShareAPI mShareAPI = UMShareAPI.get(activity);
-        mShareAPI.onActivityResult(requestCode, resultCode, data);
+        final UMShareAPI shareAPI = UMShareAPI.get(activity);
+        shareAPI.onActivityResult(requestCode, resultCode, data);
     }
 
     // QQ和Qzone appid appkey
-    public void setQQZone(String appid, String appkey) {
+    public static void setQQZone(String appid, String appkey) {
         PlatformConfig.setQQZone(appid, appkey);
     }
 
