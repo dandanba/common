@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/analytics/analytics.iml" filepath="$PROJECT_DIR$/analytics/analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-ago/android-ago.iml" filepath="$PROJECT_DIR$/android-ago/android-ago.iml" />
       <module fileurl="file://$PROJECT_DIR$/androidanimations/androidanimations.iml" filepath="$PROJECT_DIR$/androidanimations/androidanimations.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/appcompat-v7/appcompat-v7.iml" filepath="$PROJECT_DIR$/appcompat-v7/appcompat-v7.iml" />
@@ -11,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/circleindicator/circleindicator.iml" filepath="$PROJECT_DIR$/circleindicator/circleindicator.iml" />
       <module fileurl="file://$PROJECT_DIR$/common.iml" filepath="$PROJECT_DIR$/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/customactivityoncrash/customactivityoncrash.iml" filepath="$PROJECT_DIR$/customactivityoncrash/customactivityoncrash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datetimepicker/datetimepicker.iml" filepath="$PROJECT_DIR$/datetimepicker/datetimepicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/eventbus/eventbus.iml" filepath="$PROJECT_DIR$/eventbus/eventbus.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmentswitcher/fragmentswitcher.iml" filepath="$PROJECT_DIR$/fragmentswitcher/fragmentswitcher.iml" />
       <module fileurl="file://$PROJECT_DIR$/glide/glide.iml" filepath="$PROJECT_DIR$/glide/glide.iml" />
