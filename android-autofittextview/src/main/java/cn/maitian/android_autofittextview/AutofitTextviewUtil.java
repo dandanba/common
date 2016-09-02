@@ -8,7 +8,7 @@ import me.grantland.widget.AutofitHelper;
  * Created by geng on 2016/9/2.
  */
 public class AutofitTextviewUtil {
-    public void createAutofitTextView(TextView textView) {
+    public static void createAutofitTextView(TextView textView) {
         AutofitHelper.create(textView);
     }
 }
