@@ -10,9 +10,9 @@ import com.avos.avoscloud.feedback.FeedbackAgent;
  */
 public class LeanCloudUtil {
 
-    public static void init(Context context, boolean useAVCloudUS) {
+    public static void init(Context context, boolean useAVCloudUS, String appid, String appkey) {
         // 初始化参数依次为 this, AppId, AppKey
-        AVOSCloud.initialize(context, "{{appid}}", "{{appkey}}");
+        AVOSCloud.initialize(context, appid, appkey);
         if (useAVCloudUS) {
             // 启用北美节点
             AVOSCloud.useAVCloudUS();

@@ -8,7 +8,7 @@ android {
         minSdkVersion 15
         targetSdkVersion 24
         versionCode 1
-        versionName "1.0.1"
+        versionName "1.0"
     }
     buildTypes {
         release {
@@ -16,22 +16,10 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    //为了解决部分第三方库重复打包了META-INF的问题
-    packagingOptions {
-        exclude 'META-INF/LICENSE.txt'
-        exclude 'META-INF/NOTICE.txt'
-    }
-    lintOptions {
-        abortOnError false
-    }
 }
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
-    compile('cn.leancloud.android:avoscloud-sdk:v3.+')    // LeanCloud 基础包
-    compile('cn.leancloud.android:avoscloud-feedback:v3.+@aar')    // LeanCloud 用户反馈包
-
+    compile 'me.grantland:autofittextview:0.2.+'
 }
-
-apply from: '../maven_push.gradle'
