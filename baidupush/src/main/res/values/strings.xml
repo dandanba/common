@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="login">登录</string>
     <string name="text_btn_init">百度账号绑定</string>
     <string name="text_btn_init1">更换百度账号</string>
