@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/analytics" />
+            <option value="$PROJECT_DIR$/andfix" />
             <option value="$PROJECT_DIR$/android-ago" />
             <option value="$PROJECT_DIR$/android-autofittextview" />
             <option value="$PROJECT_DIR$/androidanimations" />
@@ -47,6 +48,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/analytics" />
+            <option value="$PROJECT_DIR$/andfix" />
             <option value="$PROJECT_DIR$/android-ago" />
             <option value="$PROJECT_DIR$/android-autofittextview" />
             <option value="$PROJECT_DIR$/androidanimations" />

@@ -1,11 +1,10 @@
 apply plugin: 'maven'
-
 uploadArchives {
     configuration = configurations.archives
     repositories {
         mavenDeployer {
-            repository(url: MAITIAN_REPOSITORIES_PATH) {
-                authentication(userName: MAITIAN_REPOSITORIES_USERNAME, password: MAITIAN_REPOSITORIES_PASSWORD)
+            repository(url: 'http://127.0.0.1:8081/nexus/content/repositories/maitian/') {
+                authentication(userName: 'admin', password: 'admin123')
             }
             pom.project {
                 version android.defaultConfig.versionName
